@@ -8,6 +8,9 @@ I am a third-year Electrical Engineering student at FCRIT and a full-stack web d
 
 ### 🚀 Live Projects
 
+* **[tactrit](https://tactrit.vercel.app/)**
+  A real-time nutritional tracker for daily macros, vitamins, and minerals with dynamic weight-based calculations and deficiency gap allowances.
+  
 * **[SIMULAB DC-TWIN](https://simulab-2026.vercel.app/)**
   An interactive web-based virtual lab simulation for DC shunt motor testing.
 
@@ -20,8 +23,6 @@ I am a third-year Electrical Engineering student at FCRIT and a full-stack web d
 * **[MedPlain](https://med-plain-three.vercel.app/)**
   An AI-powered tool that translates complex medical and lab reports into clear, plain English — completely private, free, and requiring no signup.
 
-* **[tactrit](https://tactrit.vercel.app/)**
-  A real-time nutritional tracker for daily macros, vitamins, and minerals with dynamic weight-based calculations and deficiency gap allowances.
 
 * **[minus](https://minus-sigma.vercel.app/)**
   A precise weight-loss calculator for mapping safe calorie targets to realistic timelines.
