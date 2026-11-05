@@ -17,7 +17,7 @@ A flexible habit tracker to log custom metrics and units, visualizing daily cons
 * **[BunkMaster](https://bunk-master-snowy.vercel.app/)**
   An academic planner to calculate safe bunks, track subject-wise attendance, and forecast exact class requirements to hit attendance goals.
 
-  * **[SIMULAB DC-TWIN](https://simulab-2026.vercel.app/)**
+* **[SIMULAB DC-TWIN](https://simulab-2026.vercel.app/)**
   An interactive web-based virtual lab simulation for DC shunt motor testing.
 
 * **[MedCard](https://med-card-one.vercel.app/)**
