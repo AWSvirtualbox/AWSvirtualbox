@@ -20,6 +20,9 @@ A flexible habit tracker to log custom metrics and units, visualizing daily cons
 * **[SIMULAB DC-TWIN](https://simulab-2026.vercel.app/)**
   An interactive web-based virtual lab simulation for DC shunt motor testing.
 
+* **[whatnow](https://whatnow-navy.vercel.app/)**
+  A free emergency guide that gives you calm, step-by-step checklists when a sudden crisis hits—like job loss, eviction, or a serious diagnosis.
+  
 * **[MedCard](https://med-card-one.vercel.app/)**
   An emergency digital medical profile web portal developed as part of the IEEE Tech for Good summer cohort.
 
