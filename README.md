@@ -10,12 +10,15 @@ I am a third-year Electrical Engineering student at FCRIT and a full-stack web d
 
 * **[tactrit](https://tactrit.vercel.app/)**
   A real-time nutritional tracker for daily macros, vitamins, and minerals with dynamic weight-based calculations and deficiency gap allowances.
-  
-* **[SIMULAB DC-TWIN](https://simulab-2026.vercel.app/)**
-  An interactive web-based virtual lab simulation for DC shunt motor testing.
+
+* **[daily-target-tracker](https://daily-target-tracker-ochre.vercel.app/)**
+A flexible habit tracker to log custom metrics and units, visualizing daily consistency and long-term progress across months and years.
 
 * **[BunkMaster](https://bunk-master-snowy.vercel.app/)**
   An academic planner to calculate safe bunks, track subject-wise attendance, and forecast exact class requirements to hit attendance goals.
+
+  * **[SIMULAB DC-TWIN](https://simulab-2026.vercel.app/)**
+  An interactive web-based virtual lab simulation for DC shunt motor testing.
 
 * **[MedCard](https://med-card-one.vercel.app/)**
   An emergency digital medical profile web portal developed as part of the IEEE Tech for Good summer cohort.
