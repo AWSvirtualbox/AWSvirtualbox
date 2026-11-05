@@ -1,6 +1,6 @@
-### Hi, I'm Jayesh Sampat Jadhav 👋
+### Hi, I'm Jayesh 👋
 
-I am a third-year Electrical Engineering student at FCRIT and a full-stack web developer. I specialize in building high-performance web applications, interactive data dashboards, and integrating hardware edge controllers with modern web infrastructure.
+I am a full-stack product engineer focused on building fast, reliable web applications and data-driven tools. I specialize in turning practical ideas into production-ready software with clean UI and minimal overhead.
 
 **Core Stack:** Next.js, TypeScript, Tailwind CSS, Supabase, Vercel, Node.js
 
@@ -26,9 +26,5 @@ A flexible habit tracker to log custom metrics and units, visualizing daily cons
 * **[MedPlain](https://med-plain-three.vercel.app/)**
   An AI-powered tool that translates complex medical and lab reports into clear, plain English — completely private, free, and requiring no signup.
 
-
 * **[minus](https://minus-sigma.vercel.app/)**
   A precise weight-loss calculator for mapping safe calorie targets to realistic timelines.
-
----
-⚡ *All repositories for these applications are maintained privately. The live production deployments are linked above.*
